@@ -28,7 +28,7 @@ export default function AboutPage() {
             </div>
             <div className="flex items-center justify-center">
               <Image
-                src="/images/about-crypto.jpg?height=400&width=600"
+                src="/images/about-Crypto.jpg?height=400&width=600"
                 alt="Crypto Lubricants facility"
                 width={600}
                 height={400}

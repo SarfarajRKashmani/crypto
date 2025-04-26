@@ -28,10 +28,9 @@ export default function ProductCarousel({ products, title, autoplay = true, inte
   }, [products.length])
   const Images = [
     { name: "Bike Slide", image: "/images/sl-bike.png" },
-    { name: "3in1 Product", image: "/images/3in1.png" },
+    { name: "3in1 Product", image: "/images/3in1.PNG" },
     { name: "Crane Slide", image: "/images/sl-crane.png" },
-    { name: "Navigator Slide", image: "/images/navigator.png" },
-       // 👉 add more images easily here
+    { name: "Navigator Slide", image: "/images/navigator.PNG"}
   ]
   
 

@@ -86,7 +86,7 @@ export const products: Product[] = [
     id: 3,
     name: "NAVIGATOR 20W-40 API SF/CC",
     category: "Multigrade",
-    image: "/images/navigator3.png",
+    image: "/images/navigator3.PNG",
     price: 19.99,
     description: "CRYPTO 20W-40 is a economy multigrade engine oil suitable both petrol & diesel engines.",
     sizes: ["500ML", "1L", "2L", "2.5L", "3L", "3.5L", "5L", "7.5L", "10L", "15L", "20L", "26L", "50L", "210L"],
