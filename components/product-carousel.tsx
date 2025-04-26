@@ -32,7 +32,6 @@ export default function ProductCarousel({ products, title, autoplay = true, inte
     { name: "Crane Slide", image: "/images/sl-crane.png" },
     { name: "Navigator Slide", image: "/images/navigator.PNG"}
   ]
-  
 
   // Autoplay functionality
   useEffect(() => {
